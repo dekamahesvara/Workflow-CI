@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/733039300176865439/95e57fe262794304a9f90c97a0921ef4/artifacts
+end_time: 1784167828349
+entry_point_name: ''
+experiment_id: '733039300176865439'
+lifecycle_stage: active
+run_id: 95e57fe262794304a9f90c97a0921ef4
+run_name: secretive-donkey-158
+run_uuid: 95e57fe262794304a9f90c97a0921ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784167818258
+status: 3
+tags: []
+user_id: runner

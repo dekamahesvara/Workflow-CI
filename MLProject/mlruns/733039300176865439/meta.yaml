@@ -1,0 +1,6 @@
+artifact_location: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/733039300176865439
+creation_time: 1784167818217
+experiment_id: '733039300176865439'
+last_update_time: 1784167818217
+lifecycle_stage: active
+name: telco_churn_ci
